@@ -1,2 +1,2 @@
 # studyt1
-연습용공간입니다.
+android 실습하기
